@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Super Cool Awesome App!</string>
+    <string name="action_settings">Settings</string>
+    <string name="number">Enter Number</string>
+    <string name="radix_number">Enter Radix</string>
+    <string name="New_base">Enter New Base</string>
+    <string name="Enter">Enter</string>
+    <string name="ans">Answer</string>
+</resources>
