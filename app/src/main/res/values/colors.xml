@@ -4,4 +4,6 @@
     <color name="colorPrimaryDark">#07e100</color>
     <color name="colorAccent">#f20c04</color>
     <color name="light_blue">#4df7ff</color>
+    <color name="header_1">#AFA7EF</color>
+    <color name="header_2">#000000</color>
 </resources>

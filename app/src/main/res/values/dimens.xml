@@ -5,4 +5,5 @@
     <dimen name="fab_margin">16dp</dimen>
     <dimen name="margin">16dp</dimen>
     <dimen name="big">50sp</dimen>
+    <dimen name="head_dimension">5dp</dimen>
 </resources>
